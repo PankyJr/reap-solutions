@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+*.log
+.env*.local
+run-from-tmp.sh
+run-from-desktop.sh
+SHARE_LINK.md
